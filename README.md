@@ -1,2 +1,3 @@
-# Hello World
- Primeiro repositorio do curso de Git & GitHub
+# Hello World!
+ Primeiro repositório do curso de Git & GitHub.
+ 
